@@ -8,7 +8,7 @@ package _04_animals_inheritance;
  *       have in common. Lets call that class Animal.
  */
 public class AnimalRunner {
-	public static void main(String[] args) {
+	/*public static void main(String[] args) {
 		Dog d = new Dog("Lucy", "brown", true);
 		d.printName();
 		d.play();
@@ -20,5 +20,5 @@ public class AnimalRunner {
 		c.play();
 		c.eat();
 		c.sleep();
-	}
+	}*/
 }
